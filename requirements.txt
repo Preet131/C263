@@ -4,7 +4,6 @@ colorama==0.4.6
 cycler==0.11.0
 etherpad-lite==0.5
 Flask==2.2.3
-fonttools==4.39.2
 idna==3.4
 importlib-metadata==6.1.0
 importlib-resources==5.12.0
